@@ -1,0 +1,3 @@
+create_table "todos", force: true do |t|
+  t.string   "title"
+end
