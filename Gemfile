@@ -38,8 +38,10 @@ group :development, :test do
   gem 'spring'
   gem 'pry-rails'
   gem 'seed-fu'
+  gem 'json_expressions'
 end
 
 gem 'grape'
+gem 'grape-jbuilder'
 gem 'dotenv-rails'
 gem 'ridgepole'
